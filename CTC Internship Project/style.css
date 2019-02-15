@@ -1,41 +1,9 @@
-#box{
-    height: 100%;
-    width: 100%;
-    background-color:#d9e6fc;
+#nav-bar{
+	padding:15px; 
+	color:white; 
+	font-size:16px; 
+	font-family:verdana;
 }
-
-#box2{
-    height:50px;
-    width:100%;
-    background-color:blue;
-}
-
-#box3{
-    height: 100%;
-    width: 50%;
-}
-
-#box4{
-        
-        height: 100%;
-        width: 50%;
-    }
-
-
-#table1{
-    height:50px;
-    width:100%;
-    background-color:#022450;
-    font-family: verdana;
-    font-size: 20px;
-    color:white;
-}
-
-#table2{
-    height: 100%;
-        width: 100%;
-}
-
 #button1{
     height:40px;
     width:150px;
